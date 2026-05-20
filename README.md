@@ -11,3 +11,5 @@ Siddharth Chaudhary <br />
 Shashinoor Ghimire<br />
 Aakriti Poudel<br />
 Rista Shrestha<br />
+Anup Timalsina<br />
+
